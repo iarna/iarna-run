@@ -1,0 +1,14 @@
+{
+  "name": "@iarna/run",
+  "version": "2.0.0",
+  "description": "",
+  "bin": {
+    "run": "run.pl"
+  },
+  "keywords": [],
+  "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "which": "^1.2.14"
+  }
+}
